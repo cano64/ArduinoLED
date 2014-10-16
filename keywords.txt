@@ -1,0 +1,8 @@
+ArduinoLED	KEYWORD1
+
+update	KEYWORD2
+on	KEYWORD2
+off	KEYWORD2
+blink	KEYWORD2
+pulse	KEYWORD2
+pwm	KEYWORD2
